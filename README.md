@@ -6,10 +6,3 @@ This repository contains a RESTful API for managing personal financial records u
 Technologies
 Backend: Node.js with Express.js
 Database: SQLite
-API Endpoints
-POST /transactions: Add a new transaction.
-GET /transactions: Retrieve all transactions.
-GET /transactions/:id: Retrieve a transaction by ID.
-PUT /transactions/:id: Update a transaction.
-DELETE /transactions/:id: Delete a transaction.
-GET /summary: Get a summary of total income, expenses, and balance.
